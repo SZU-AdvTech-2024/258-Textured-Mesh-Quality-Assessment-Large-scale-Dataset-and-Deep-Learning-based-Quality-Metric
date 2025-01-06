@@ -1,18 +1,11 @@
 @article{REPO258,
     author = "Nehm\'{e}, Yana and Delanoy, Johanna and Dupont, Florent and Farrugia, Jean-Philippe and Le Callet, Patrick and Lavou\'{e}, Guillaume",
-    address = "New York, NY, USA",
     articleno = "31",
-    doi = "10.1145/3592786",
-    issn = "0730-0301",
-    issue_date = "June 2023",
     journal = "ACM Trans. Graph.",
-    keywords = "Computer graphics, perception, 3D mesh, texture, visual quality assessment, subjective quality evaluation, objective quality evaluation, dataset, perceptual metric, deep learning, crowdsourcing",
     month = "June",
     number = "3",
     numpages = "20",
-    publisher = "Association for Computing Machinery",
     title = "{Textured Mesh Quality Assessment: Large-scale Dataset and Deep Learning-based Quality Metric}",
-    url = "https://doi.org/10.1145/3592786",
     volume = "42",
     year = "2023"
 }
